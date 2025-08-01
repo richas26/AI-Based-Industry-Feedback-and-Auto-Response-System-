@@ -22,8 +22,9 @@ This system leverages NLP and LLMs to extract insights from unstructured feedbac
 - **Visualization:** Matplotlib, Seaborn  
 - **Deployment:** Streamlit Sharing / Heroku
 
+Contributor
 
-Richa Shah
+- **Richa Shah**  
 
 ## Future Scope
 
